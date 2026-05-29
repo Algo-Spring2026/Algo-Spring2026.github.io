@@ -7,34 +7,36 @@ permalink: /materials/
 
 ## Hand-out
 
-Algorithm Desigin - Spring 2026 - Dr. Eskandari
-[Download full textbook (PDF)](/static_files/presentations/algorithms_spring2026.pdf)
+Lecture slides are available per session in the [Lectures](/lectures/) section. No single handout.
 
 ---
 ## Similar Courses
-* [Grokking Algorithms](https://www.ebooksworld.ir/post/index/949) - visual & simple guide to algorithms with python
-* [CS161 2013](https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/) - Stanford University
-* [6.046J Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - MIT OpenCourseWare
-* [15-451/651: Algorithms](https://www.cs.cmu.edu/afs/cs/Web/People/15451/index.html) - Carnegie Mellon University (check Schedule section for materials)
-* [CS 341: Algorithms](https://student.cs.uwaterloo.ca/~cs341/) - University of Waterloo
-* [CS 580: Algorithms](https://www.cs.purdue.edu/homes/tamaldey/course/580/) - Purdue University
-* [Design and Analysis of Algorithms (2021-2022)](https://www.cs.ox.ac.uk/teaching/courses/2021-2022/algdesign/) - University of Oxford
-* [Algorithm Design (Kleinberg & Tardos) Lecture Slides](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/) - Princeton University
-* [Algorithm Design (Official Pearson Slides)](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/) - Princeton University
-* [Grokking Algorithms (Illustrated Guide)](https://www.ebooksworld.ir/post/index/949) - EBooksWorld
+* [CS276 / LING286: Information Retrieval and Web Search](https://web.stanford.edu/class/cs276/) - Stanford University
+* [CS54701: Information Retrieval](https://www.cs.purdue.edu/homes/clifton/cs54701/) - Purdue University
+* [Advanced NLP Fall 2024 (Retrieval and RAG)](https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp) - CMU
+* [Information Retrieval](https://systems.ethz.ch/education/courses/2024-spring/information-retrieval-.html) - ETH Zurich
+* [Information Retrieval](https://www.cl.cam.ac.uk/teaching/1718/InfoRtrv/materials.html) - University of Cambridge
 
 ## Recommended Books & References
 
-1. **"Introduction to Algorithms"** - Cormen, Leiserson, Rivest, Stein
-2. **"Algorithm Design Manual"** - Steven Skiena
-3. **Online Judge Practice:**
-   - [LeetCode](https://leetcode.com/)
-   - [HackerRank](https://www.hackerrank.com/)
+1. **[MRS] Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze**  
+   *Introduction to Information Retrieval* – Cambridge University Press, 2008  
+   📥 [Download PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf)
+
+2. **[HNG] Hang Li**  
+   *Learning to Rank for Information Retrieval and Natural Language Processing* – Morgan & Claypool, 2011  
+   📥 [Download PDF](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf)
+
+3. **[MC] Bhaskar Mitra, Nick Craswell**  
+   *An Introduction to Neural Information Retrieval* – Foundations and Trends in IR, Vol. 13, No. 1, pp. 1-126, 2018  
+   🔗 [Access Link](https://www.emerald.com/ftinr/article-abstract/13/1/1/1328679/An-Introduction-to-Neural-Information-Retrieval?redirectedFrom=fulltext)
 
 *More resources will be added during the semester.*
 
 ## Additional Course Materials
 
-* [Python for Beginners](https://docs.python.org/3/tutorial/) - Official Python tutorial
-* [Visualgo](https://visualgo.net) - Algorithm visualizations
-* [GeeksforGeeks](https://geeksforgeeks.org) - Algorithm problems and solutions
+* [NLTK](https://www.nltk.org/) – Python library for text processing
+* [Scikit-learn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_extraction.text) – Text feature extraction (TF‑IDF)
+* [Elasticsearch](https://www.elastic.co/) – Open‑source search engine
+* [Whoosh](https://whoosh.readthedocs.io/) – Pure‑Python search library
+* [RankLib](https://sourceforge.net/p/lemur/wiki/RankLib/) – Learning to rank library
