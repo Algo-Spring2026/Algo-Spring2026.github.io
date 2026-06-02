@@ -135,13 +135,34 @@ permalink: /materials/
 
   <h2>📖 Recommended Books & References</h2>
 
-| Ref. | Book Title / Authors | Download / Link |
-|:----:|----------------------|-----------------|
-| **[CLRS]** | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein – *Introduction to Algorithms* (MIT Press) | [📄 Link](https://mitpress.mit.edu/books/introduction-algorithms) |
-| **[SKI]** | Steven Skiena – *The Algorithm Design Manual* (Springer) | [📄 Link](https://www.algorist.com/) |
-| **[K&T]** | Jon Kleinberg, Éva Tardos – *Algorithm Design* (Pearson) | [📄 Link](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/) |
+  <table class="books-table">
+    <thead>
+      <tr>
+        <th>Ref.</th>
+        <th>Book Title / Authors</th>
+        <th>Download / Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>[CLRS]</strong></th>
+        <td>Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein – <em>Introduction to Algorithms</em> (MIT Press)</th>
+        <td><a class="download-link" href="https://mitpress.mit.edu/books/introduction-algorithms">📄 Link</a></th>
+      </tr>
+      <tr>
+        <td><strong>[SKI]</strong></th>
+        <td>Steven Skiena – <em>The Algorithm Design Manual</em> (Springer)</th>
+        <td><a class="download-link" href="https://www.algorist.com/">📄 Link</a></th>
+      </tr>
+      <tr>
+        <td><strong>[K&T]</strong></th>
+        <td>Jon Kleinberg, Éva Tardos – <em>Algorithm Design</em> (Pearson)</th>
+        <td><a class="download-link" href="https://www.cs.princeton.edu/~wayne/kleinberg-tardos/">📄 Link</a></th>
+      </tr>
+    </tbody>
+  </table>
 
-*More resources will be added during the semester.*
+  <p><em>More resources will be added during the semester.</em></p>
 
   <div class="similar-courses">
     <h3>🌐 Similar Courses</h3>
