@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: lectures
 title: Lectures
 permalink: /lectures/
 ---
@@ -18,14 +18,30 @@ permalink: /lectures/
 </style>
 
 <div class="quizzes-container">
-  <p class="intro-text">Lecture slides will be uploaded before each session. Below are the quiz files (3 quizzes) for this course.</p>
+  <p class="intro-text">Lecture slides will be uploaded before each session. Below are the quiz files for this course.</p>
   <h2>📝 Quizzes</h2>
   <table class="quizzes-table">
     <thead><tr><th>Quiz</th><th>Title</th><th>Download</th></tr></thead>
     <tbody>
-      <tr><td>1</td><td>Quiz 1 </td><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></td></tr>
-      <tr><td>2</td><td>Quiz 2 </td><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></td></tr>
-      <tr><td>3</td><td>Quiz 3</td><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></td></tr>
+      <tr><td style="text-align:center;">1</th><td>Quiz 1</th><td><a class="download-link" href="/static_files/quizzes/Quiz-1.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">2</th><td>Quiz 2</th><td><a class="download-link" href="/static_files/quizzes/Quiz-2.PDF">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">3</th><td>Quiz 3</th><td><a class="download-link" href="/static_files/quizzes/Quiz-3%20.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">4</th><td>Quiz 4</th><td><a class="download-link" href="/static_files/quizzes/Quiz-4%20.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">5</th><td>Quiz 5</th><td><a class="download-link" href="/static_files/quizzes/Quiz-5.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">6</th><td>Quiz 6</th><td><a class="download-link" href="/static_files/quizzes/Quiz-6%E2%80%94The%20Last%20Chapter...pdf">📄 PDF</a></th></tr>
+    </tbody>
+  </table>
+
+  <h2>🔑 Answer Keys</h2>
+  <table class="quizzes-table">
+    <thead><tr><th>Quiz</th><th>Answer Key</th><th>Download</th></tr></thead>
+    <tbody>
+      <tr><td style="text-align:center;">1</th><td>Quiz 1 Answer</th><td><a class="download-link" href="/static_files/answer_Q/IR-Quiz-1-Answer.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">2</th><td>Quiz 2 Answer</th><td><a class="download-link" href="/static_files/answer_Q/IR-Quiz-2-Answer.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">3</th><td>Quiz 3 Answer</th><td><a class="download-link" href="/static_files/answer_Q/IR-Quiz-3-Answer.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">4</th><td>Quiz 4 Answer</th><td><a class="download-link" href="/static_files/answer_Q/IR-Quiz-4-Answer.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">5</th><td>Quiz 5 Answer</th><td><a class="download-link" href="/static_files/answer_Q/IR-Quiz-5-Answer.pdf">📄 PDF</a></th></tr>
+      <tr><td style="text-align:center;">6</th><td>Quiz 6 Answer (Soon)</th><td><span class="future-badge" style="background:#fef9c3; color:#854d0e; padding:5px 12px; border-radius:30px; font-size:0.8rem;">🔜 Coming soon</span></th></tr>
     </tbody>
   </table>
   <p><em>More materials will be added during the semester.</em></p>
