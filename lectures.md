@@ -27,32 +27,64 @@ permalink: /lectures/
   <p class="intro-text">Lecture slides will be uploaded before each session. Below are the quiz files and answer keys for this course.</p>
 
   <div class="two-columns">
-    <!-- ستون اول: Quizzes -->
+    <!-- ستون اول: سوالات کوییز -->
     <div class="column">
       <h2>📝 Quizzes</h2>
       <table class="quizzes-table">
         <thead>
-          <tr><th>Quiz</th><th>Title</th><th>Download</th></tr>
+          <tr>
+            <th>Quiz</th>
+            <th>Title</th>
+            <th>Download</th>
+          </tr>
         </thead>
         <tbody>
-          <tr><td style="text-align:center;">1</th><td>Quiz 1</th><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></th></tr>
-          <tr><td style="text-align:center;">2</th><td>Quiz 2</th><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></th></tr>
-          <tr><td style="text-align:center;">3</th><td>Quiz 3</th><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></th></tr>
+          <tr>
+            <td style="text-align:center;">1</td>
+            <td>Quiz 1</td>
+            <td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">2</td>
+            <td>Quiz 2</td>
+            <td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">3</td>
+            <td>Quiz 3</td>
+            <td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></td>
+          </tr>
         </tbody>
       </table>
     </div>
 
-    <!-- ستون دوم: Answer Keys -->
+    <!-- ستون دوم: پاسخ‌نامه‌ها -->
     <div class="column">
       <h2>🔑 Answer Keys</h2>
       <table class="quizzes-table">
         <thead>
-          <tr><th>Quiz</th><th>Answer Key</th><th>Download</th></tr>
+          <tr>
+            <th>Quiz</th>
+            <th>Answer Key</th>
+            <th>Download</th>
+          </tr>
         </thead>
         <tbody>
-          <tr><td style="text-align:center;">1</th><td>Quiz 1 Answer</th><td><a class="download-link" href="/static_files/answer_Q/A-Algo-Quiz-1.pdf">📄 PDF</a></th></tr>
-          <tr><td style="text-align:center;">2</th><td>Quiz 2 Answer</th><td><a class="download-link" href="/static_files/answer_Q/Answers%20-%20Quiz2.pdf">📄 PDF</a></th></tr>
-          <tr><td style="text-align:center;">3</th><td>Quiz 3 Answer</th><td><a class="download-link" href="/static_files/answer_Q/Quiz-3%20Answers.pdf">📄 PDF</a></th></tr>
+          <tr>
+            <td style="text-align:center;">1</td>
+            <td>Quiz 1 Answer</td>
+            <td><a class="download-link" href="/static_files/answer_Q/A-Algo-Quiz-1.pdf">📄 PDF</a></td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">2</td>
+            <td>Quiz 2 Answer</td>
+            <td><a class="download-link" href="/static_files/answer_Q/Answers%20-%20Quiz2.pdf">📄 PDF</a></td>
+          </tr>
+          <tr>
+            <td style="text-align:center;">3</td>
+            <td>Quiz 3 Answer</td>
+            <td><a class="download-link" href="/static_files/answer_Q/Quiz-3%20Answers.pdf">📄 PDF</a></td>
+          </tr>
         </tbody>
       </table>
     </div>
