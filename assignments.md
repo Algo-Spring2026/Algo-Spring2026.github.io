@@ -22,25 +22,25 @@ permalink: /assignments/
   <table class="assign-table">
     <thead><tr><th>Week</th><th>Topic</th><th>Download</th></tr></thead>
     <tbody>
-      <tr><td style="text-align:center;">1</td>
-        <td>Introduction & Algorithm Analysis</td>
-        <td><a class="download-link" href="/static_files/homeworks/week_01.pdf">📄 PDF</a></td>
+      <tr><td style="text-align:center;">1</th>
+        <td><strong>Coin Change (Greedy & DP), Huffman Coding, Knapsack (Fractional & 0/1 with Fibonacci weights), Three‑Sum + Scheduling with Decoding & Payment Constraint</strong></th>
+        <td><a class="download-link" href="/static_files/homeworks/week_01.pdf">📄 PDF</a></th>
       </tr>
-      <tr><td style="text-align:center;">2</td>
-        <td>Divide & Conquer, Recurrences</td>
-        <td><a class="download-link" href="/static_files/homeworks/week%2002.pdf">📄 PDF</a></td>
+      <tr><td style="text-align:center;">2</th>
+        <td><strong>Fast Fibonacci (Divide & Conquer), Treasure Selection (LCS + Non‑decreasing order), Island Rescue Network (MST with Prim + stability preference), Server Management (Tree + adjacent constraints)</strong></th>
+        <td><a class="download-link" href="/static_files/homeworks/week%2002.pdf">📄 PDF</a></th>
       </tr>
-      <tr><td style="text-align:center;">3</td>
-        <td>Sorting & Searching</td>
-        <td><a class="download-link" href="/static_files/homeworks/week%2003.pdf">📄 PDF</a></td>
+      <tr><td style="text-align:center;">3</th>
+        <td><strong>Johnson’s two‑machine scheduling, Floyd‑Warshall all‑pairs shortest paths, Fiber optic network (MST with cable type limit), Fibonacci Heap for dynamic graph paths</strong></th>
+        <td><a class="download-link" href="/static_files/homeworks/week%2003.pdf">📄 PDF</a></th>
       </tr>
-      <tr><td style="text-align:center;">4</td>
-        <td>Dynamic Programming</td>
-        <td><a class="download-link" href="/static_files/homeworks/week%2004.pdf">📄 PDF</a></td>
+      <tr><td style="text-align:center;">4</th>
+        <td><strong>Fast power (Divide & Conquer), Closest pair of points (Divide & Conquer), Strassen’s matrix multiplication, KMP pattern matching</strong></th>
+        <td><a class="download-link" href="/static_files/homeworks/week%2004.pdf">📄 PDF</a></th>
       </tr>
-      <tr><td style="text-align:center;">5</td>
-        <td>Greedy Algorithms & Graphs</td>
-        <td><a class="download-link" href="/static_files/homeworks/week%2005.pdf">📄 PDF</a></td>
+      <tr><td style="text-align:center;">5</th>
+        <td><strong>Residual Graph from Capacity & Flow, Maximum Bipartite Matching, Min s‑t Cut (Max Flow), Bottleneck Edges Identification</strong></th>
+        <td><a class="download-link" href="/static_files/homeworks/week%2005.pdf">📄 PDF</a></th>
       </tr>
     </tbody>
   </table>
