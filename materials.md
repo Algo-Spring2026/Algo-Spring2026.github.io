@@ -32,7 +32,7 @@ permalink: /materials/
     margin: 1.5rem 0;
   }
   .books-table thead tr {
-    background: #2f4454;  /* رنگ هدر جدول متناسب با تم الگوریتم */
+    background: #2f4454;
     color: #ffffff;
     text-align: left;
     font-weight: 600;
@@ -128,7 +128,7 @@ permalink: /materials/
 
 <div class="materials-container">
   <div class="image-card">
-    <img src="{{ site.baseurl }}/_images/screenshots/image.png.jpeg" alt="Course illustration">
+    <img src="{{ site.baseurl }}/_images/screenshots/image.png.jpeg" alt="Algorithms illustration">
   </div>
 
   <p><strong>Lecture slides</strong> are available per session in the <a href="{{ site.baseurl }}/lectures/" class="external-link">Lectures section</a>. There is no single comprehensive handout.</p>
@@ -137,29 +137,31 @@ permalink: /materials/
 
 | Ref. | Book Title / Authors | Download / Link |
 |:----:|----------------------|-----------------|
-| **[MRS]** | Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze – *Introduction to Information Retrieval* (Cambridge, 2008) | [📄 PDF](https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf) |
-| **[HNG]** | Hang Li – *Learning to Rank for Information Retrieval and Natural Language Processing* (Morgan & Claypool, 2011) | [📄 PDF](https://www.iro.umontreal.ca/~nie/IFT6255/Books/Learning-to-rank.pdf) |
-| **[MC]** | Bhaskar Mitra, Nick Craswell – *An Introduction to Neural Information Retrieval* (Foundations and Trends in IR, 2018) | [🔗 Access Link](https://www.emerald.com/ftinr/article-abstract/13/1/1/1328679/An-Introduction-to-Neural-Information-Retrieval?redirectedFrom=fulltext) |
+| **[CLRS]** | Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein – *Introduction to Algorithms* (MIT Press) | [📄 Link](https://mitpress.mit.edu/books/introduction-algorithms) |
+| **[SKI]** | Steven Skiena – *The Algorithm Design Manual* (Springer) | [📄 Link](https://www.algorist.com/) |
+| **[K&T]** | Jon Kleinberg, Éva Tardos – *Algorithm Design* (Pearson) | [📄 Link](https://www.cs.princeton.edu/~wayne/kleinberg-tardos/) |
+
+*More resources will be added during the semester.*
 
   <div class="similar-courses">
     <h3>🌐 Similar Courses</h3>
     <ul>
-      <li><a href="https://web.stanford.edu/class/cs276/" class="external-link">CS276 / LING286: Information Retrieval and Web Search</a> – Stanford University</li>
-      <li><a href="https://www.cs.purdue.edu/homes/clifton/cs54701/" class="external-link">CS54701: Information Retrieval</a> – Purdue University</li>
-      <li><a href="https://www.youtube.com/watch?v=MM48kc5Zq8A&list=PL8PYTP1V4I8D4BeyjwWczukWq9d8PNyZp" class="external-link">Advanced NLP Fall 2024 (Retrieval and RAG)</a> – CMU (YouTube)</li>
-      <li><a href="https://systems.ethz.ch/education/courses/2024-spring/information-retrieval-.html" class="external-link">Information Retrieval</a> – ETH Zurich</li>
-      <li><a href="https://www.cl.cam.ac.uk/teaching/1718/InfoRtrv/materials.html" class="external-link">Information Retrieval</a> – University of Cambridge</li>
+      <li><a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/" class="external-link">MIT 6.006: Introduction to Algorithms</a> – MIT OpenCourseWare</li>
+      <li><a href="https://web.stanford.edu/class/cs161/" class="external-link">CS161: Design and Analysis of Algorithms</a> – Stanford University</li>
+      <li><a href="https://www.cs.princeton.edu/~wayne/kleinberg-tardos/" class="external-link">Algorithm Design (Kleinberg & Tardos)</a> – Princeton University</li>
+      <li><a href="https://www.coursera.org/specializations/algorithms" class="external-link">Algorithms Specialization</a> – Stanford (Coursera)</li>
+      <li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY" class="external-link">MIT 6.046J: Design and Analysis of Algorithms</a> – YouTube</li>
     </ul>
   </div>
 
   <div class="extra-card">
     <h3>🛠 Additional Course Materials</h3>
     <ul>
-      <li><a href="https://www.nltk.org/" class="external-link">NLTK</a> – Python library for text processing</li>
-      <li><a href="https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_extraction.text" class="external-link">Scikit-learn</a> – Text feature extraction (TF‑IDF)</li>
-      <li><a href="https://www.elastic.co/" class="external-link">Elasticsearch</a> – Open‑source search engine</li>
-      <li><a href="https://whoosh.readthedocs.io/" class="external-link">Whoosh</a> – Pure‑Python search library</li>
-      <li><a href="https://sourceforge.net/p/lemur/wiki/RankLib/" class="external-link">RankLib</a> – Learning to rank library</li>
+      <li><a href="https://leetcode.com/" class="external-link">LeetCode</a> – Practice algorithmic problems</li>
+      <li><a href="https://visualgo.net/" class="external-link">VisuAlgo</a> – Algorithm visualizations</li>
+      <li><a href="https://www.geeksforgeeks.org/" class="external-link">GeeksforGeeks</a> – Tutorials and problem solutions</li>
+      <li><a href="https://www.python.org/" class="external-link">Python</a> – Programming language for assignments</li>
+      <li><a href="https://github.com/" class="external-link">GitHub</a> – Code repository and collaboration</li>
     </ul>
     <p><em>More resources will be added during the semester.</em></p>
   </div>
