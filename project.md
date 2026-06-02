@@ -23,9 +23,9 @@ permalink: /project/
   <table class="project-table">
     <thead><tr><th>Phase</th><th>Description</th><th>Deadline</th><th>Download</th></tr></thead>
     <tbody>
-      <tr><td><strong>Phase 1</strong></td><td>Problem analysis and algorithm design</td><td><span class="deadline-badge">To be announced</span></td><td><a class="download-link" href="/static_files/projects/f1.zip">📄 ZIP</a></td></tr>
-      <tr><td><strong>Phase 2</strong></td><td>Implementation and optimization</td><td><span class="deadline-badge">To be announced</span></td><td><a class="download-link" href="/static_files/projects/f2.zip">📄 ZIP</a></td></tr>
-      <tr><td><strong>Phase 3</strong></td><td>Testing, report, and performance analysis</td><td><span class="deadline-badge">To be announced</span></td><td><a class="download-link" href="/static_files/projects/f3.zip">📄 ZIP</a></td></tr>
+      <tr><td><strong>Phase 1</strong></td><td>Problem analysis and algorithm design</td><td><span class="deadline-badge">Ordibehesht 23 , 1405</span></td><td><a class="download-link" href="/static_files/projects/f1.zip">📄 ZIP</a></td></tr>
+      <tr><td><strong>Phase 2</strong></td><td>Implementation and optimization</td><td><span class="deadline-badge">Khordad 7 , 1405</span></td><td><a class="download-link" href="/static_files/projects/f2.zip">📄 ZIP</a></td></tr>
+      <tr><td><strong>Phase 3</strong></td><td>Testing, report, and performance analysis</td><td><span class="deadline-badge">Khordad 25 , 1405</span></td><td><a class="download-link" href="/static_files/projects/f3.zip">📄 ZIP</a></td></tr>
     </tbody>
   </table>
 </div>
