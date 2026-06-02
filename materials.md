@@ -32,7 +32,7 @@ permalink: /materials/
     margin: 1.5rem 0;
   }
   .books-table thead tr {
-    background: #2f4454;
+    background: #2f4454;   /* رنگ هدر الگوریتم */
     color: #ffffff;
     text-align: left;
     font-weight: 600;
