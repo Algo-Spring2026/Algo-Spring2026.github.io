@@ -28,19 +28,19 @@ permalink: /assignments/
       </tr>
       <tr><td style="text-align:center;">2</td>
         <td>Divide & Conquer, Recurrences</td>
-        <td><a class="download-link" href="/static_files/homeworks/week_02.pdf">📄 PDF</a></td>
+        <td><a class="download-link" href="/static_files/homeworks/week%2002.pdf">📄 PDF</a></td>
       </tr>
       <tr><td style="text-align:center;">3</td>
         <td>Sorting & Searching</td>
-        <td><a class="download-link" href="/static_files/homeworks/week_03.pdf">📄 PDF</a></td>
+        <td><a class="download-link" href="/static_files/homeworks/week%2003.pdf">📄 PDF</a></td>
       </tr>
       <tr><td style="text-align:center;">4</td>
         <td>Dynamic Programming</td>
-        <td><a class="download-link" href="/static_files/homeworks/week_04.pdf">📄 PDF</a></td>
+        <td><a class="download-link" href="/static_files/homeworks/week%2004.pdf">📄 PDF</a></td>
       </tr>
       <tr><td style="text-align:center;">5</td>
         <td>Greedy Algorithms & Graphs</td>
-        <td><a class="download-link" href="/static_files/homeworks/week_05.pdf">📄 PDF</a></td>
+        <td><a class="download-link" href="/static_files/homeworks/week%2005.pdf">📄 PDF</a></td>
       </tr>
     </tbody>
   </table>
