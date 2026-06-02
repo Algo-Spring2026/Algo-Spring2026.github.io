@@ -23,9 +23,9 @@ permalink: /lectures/
   <table class="quizzes-table">
     <thead><tr><th>Quiz</th><th>Title</th><th>Download</th></tr></thead>
     <tbody>
-      <tr><td>1</td><td>Quiz 1 – Algorithm Basics</td><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></td></tr>
-      <tr><td>2</td><td>Quiz 2 – Sorting & Searching</td><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></td></tr>
-      <tr><td>3</td><td>Quiz 3 – Dynamic Programming</td><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></td></tr>
+      <tr><td>1</td><td>Quiz 1 </td><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></td></tr>
+      <tr><td>2</td><td>Quiz 2 </td><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></td></tr>
+      <tr><td>3</td><td>Quiz 3</td><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></td></tr>
     </tbody>
   </table>
   <p><em>More materials will be added during the semester.</em></p>
