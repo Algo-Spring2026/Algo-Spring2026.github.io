@@ -14,38 +14,50 @@ permalink: /lectures/
   .quizzes-table tbody tr:hover { background-color: #fef2f4; transform: scale(1.01); }
   .download-link { display: inline-flex; align-items: center; gap: 6px; background: #f1f5f9; padding: 6px 12px; border-radius: 30px; font-size: 0.85rem; font-weight: 500; color: #994c5f; text-decoration: none; transition: background 0.2s; }
   .download-link:hover { background: #da7b93; color: #fff; text-decoration: none; }
-  .future-badge { background: #fef9c3; color: #854d0e; padding: 5px 12px; border-radius: 30px; font-size: 0.8rem; font-weight: 500; display: inline-block; }
+  .two-columns { display: flex; flex-wrap: wrap; gap: 2rem; margin: 1rem 0; }
+  .column { flex: 1; min-width: 280px; }
+  .column h2 { margin-top: 0; color: #1c3334; border-bottom: 2px solid #da7b93; display: inline-block; padding-bottom: 0.3rem; }
   .supplement-card { margin-top: 2rem; background: #f1f5f9; border-radius: 16px; padding: 1.2rem 1.5rem; border-left: 5px solid #994c5f; }
   .supplement-card h3 { margin-top: 0; color: #1c3334; }
   .intro-text { margin-bottom: 1rem; }
+  @media (max-width: 700px) {
+    .quizzes-table th, .quizzes-table td { padding: 10px 8px; }
+    .download-link { padding: 4px 8px; font-size: 0.75rem; }
+  }
 </style>
 
 <div class="quizzes-container">
   <p class="intro-text">Lecture slides will be uploaded before each session. Below are the quiz files and answer keys for this course.</p>
 
-  <h2>📝 Quizzes</h2>
-  <table class="quizzes-table">
-    <thead>
-      <tr><th>Quiz</th><th>Title</th><th>Download</th></tr>
-    </thead>
-    <tbody>
-      <tr><td style="text-align:center;">1</td><td>Quiz 1</td><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></td></tr>
-      <tr><td style="text-align:center;">2</td><td>Quiz 2</td><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></td></tr>
-      <tr><td style="text-align:center;">3</td><td>Quiz 3</td><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></td></tr>
-    </tbody>
-  </table>
+  <div class="two-columns">
+    <div class="column">
+      <h2>📝 Quizzes</h2>
+      <table class="quizzes-table">
+        <thead>
+          <tr><th>Quiz</th><th>Title</th><th>Download</th></tr>
+        </thead>
+        <tbody>
+          <tr><td style="text-align:center;">1</th><td>Quiz 1</th><td><a class="download-link" href="/static_files/quizzes/Quiz01.PDF">📄 PDF</a></th></tr>
+          <tr><td style="text-align:center;">2</th><td>Quiz 2</th><td><a class="download-link" href="/static_files/quizzes/Quiz02.PDF">📄 PDF</a></th></tr>
+          <tr><td style="text-align:center;">3</th><td>Quiz 3</th><td><a class="download-link" href="/static_files/quizzes/Quiz03.PDF">📄 PDF</a></th></tr>
+        </tbody>
+      </table>
+    </div>
 
-  <h2>🔑 Answer Keys</h2>
-  <table class="quizzes-table">
-    <thead>
-      <tr><th>Quiz</th><th>Answer Key</th><th>Download</th></tr>
-    </thead>
-    <tbody>
-      <tr><td style="text-align:center;">1</td><td>Quiz 1 Answer</td><td><a class="download-link" href="/static_files/answer_Q/A-Algo-Quiz-1.pdf">📄 PDF</a></td></tr>
-      <tr><td style="text-align:center;">2</td><td>Quiz 2 Answer</td><td><a class="download-link" href="/static_files/answer_Q/Answers%20-%20Quiz2.pdf">📄 PDF</a></td></tr>
-      <tr><td style="text-align:center;">3</td><td>Quiz 3 Answer</td><td><a class="download-link" href="/static_files/answer_Q/Quiz-3%20Answers.pdf">📄 PDF</a></td></tr>
-    </tbody>
-  </table>
+    <div class="column">
+      <h2>🔑 Answer Keys</h2>
+      <table class="quizzes-table">
+        <thead>
+          <tr><th>Quiz</th><th>Answer Key</th><th>Download</th></tr>
+        </thead>
+        <tbody>
+          <tr><td style="text-align:center;">1</th><td>Quiz 1 Answer</th><td><a class="download-link" href="/static_files/answer_Q/A-Algo-Quiz-1.pdf">📄 PDF</a></th></tr>
+          <tr><td style="text-align:center;">2</th><td>Quiz 2 Answer</th><td><a class="download-link" href="/static_files/answer_Q/Answers%20-%20Quiz2.pdf">📄 PDF</a></th></tr>
+          <tr><td style="text-align:center;">3</th><td>Quiz 3 Answer</th><td><a class="download-link" href="/static_files/answer_Q/Quiz-3%20Answers.pdf">📄 PDF</a></th></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 
   <div class="supplement-card">
     <h3>📖 Supplementary Material – Maximum Flow Problem</h3>
