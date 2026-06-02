@@ -22,7 +22,7 @@ permalink: /assignments/
   <table class="assign-table">
     <thead><tr><th>Week</th><th>Topic</th><th>Download</th></tr></thead>
     <tbody>
-      <tr><td>1</td><td>Introduction & Algorithm Analysis</td><td><a class="download-link" href="static_files/homeworks/week 01 .pdf">📄 PDF</a></td></tr>
+      <tr><td>1</td><td>Introduction & Algorithm Analysis</td><td><a class="download-link" href="static_files/homeworks/week 01.pdf">📄 PDF</a></td></tr>
       <tr><td>2</td><td>Divide & Conquer, Recurrences</td><td><a class="download-link" href="/static_files/homeworks/week%2002.pdf">📄 PDF</a></td></tr>
       <tr><td>3</td><td>Sorting & Searching</td><td><a class="download-link" href="/static_files/homeworks/week%2003.pdf">📄 PDF</a></td></tr>
       <tr><td>4</td><td>Dynamic Programming</td><td><a class="download-link" href="/static_files/homeworks/week%2004.pdf">📄 PDF</a></td></tr>
