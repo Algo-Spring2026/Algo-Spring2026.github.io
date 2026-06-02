@@ -81,7 +81,7 @@ permalink: /materials/
   .external-link:hover {
     text-decoration: underline;
   }
-  .handout {
+  .handout-card {
     background: #f1f5f9;
     border-radius: 16px;
     padding: 1rem 1.5rem;
@@ -135,10 +135,10 @@ permalink: /materials/
 
 <div class="materials-container">
   <div class="image-card">
-    <img src="{{ site.baseurl }}/_images/screenshots/image.png.jpeg" alt="Algorithms illustration">
+    <img src="{{ site.baseurl }}/_images/screenshots/image.png.jpeg" alt="Algorithms">
   </div>
 
-  <div class="handout">
+  <div class="handout-card">
     <strong>Hand-out</strong><br>
     Algorithm Design - Spring 2026 - Dr. Eskandari<br>
     <a class="download-link" href="{{ site.baseurl }}/static_files/presentations/algorithms_spring2026.pdf">📄 Download full textbook (PDF)</a>
@@ -150,24 +150,24 @@ permalink: /materials/
     <thead>
       <tr>
         <th>#</th>
-        <th>Book Title / Authors</th>
-        <th>Link / Resource</th>
+        <th>Book / Resource</th>
+        <th>Link</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong>1</strong></th>
+        <td><strong>1</strong></td>
         <td><em>Introduction to Algorithms</em> – Cormen, Leiserson, Rivest, Stein</th>
-        <td><a class="external-link" href="#">Official site</a> (link to be added)</th>
+        <td><a class="external-link" href="#">Official site</a> (to be added)</th>
       </tr>
       <tr>
         <td><strong>2</strong></th>
         <td><em>The Algorithm Design Manual</em> – Steven Skiena</th>
-        <td><a class="external-link" href="#">Official site</a> (link to be added)</th>
+        <td><a class="external-link" href="#">Official site</a> (to be added)</th>
       </tr>
       <tr>
         <td><strong>3</strong></th>
-        <td><strong>Online Judge Practice</strong><br>LeetCode | HackerRank</th>
+        <td><strong>Online Judge Practice:</strong> LeetCode | HackerRank</th>
         <td><a class="external-link" href="https://leetcode.com/">LeetCode</a> | <a class="external-link" href="https://www.hackerrank.com/">HackerRank</a></th>
       </tr>
     </tbody>
@@ -197,8 +197,6 @@ permalink: /materials/
       <li><a href="https://docs.python.org/3/tutorial/" class="external-link">Python for Beginners</a> – Official Python tutorial</li>
       <li><a href="https://visualgo.net" class="external-link">Visualgo</a> – Algorithm visualizations</li>
       <li><a href="https://geeksforgeeks.org" class="external-link">GeeksforGeeks</a> – Algorithm problems and solutions</li>
-      <li>Course Lecture Slides – Weekly lecture slides (available in <a href="{{ site.baseurl }}/lectures/" class="external-link">Lectures</a>)</li>
-      <li>Practice Assignments – Homework and exercises (available in <a href="{{ site.baseurl }}/assignments/" class="external-link">Assignments</a>)</li>
     </ul>
     <p><em>More resources will be added during the semester.</em></p>
   </div>
