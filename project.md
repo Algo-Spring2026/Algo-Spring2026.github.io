@@ -31,24 +31,26 @@ permalink: /project/
     </thead>
     <tbody>
       <tr>
-        <td><strong>Phase 1</strong></th>
-        <td>Implementation of classic algorithms: Coin Change (greedy & DP), Matrix Chain Multiplication, LIS/LCS, Huffman Coding, Graph algorithms (Dijkstra, Floyd‑Warshall), Knapsack (fractional & 0/1), and Climb Stairs. — From‑scratch coding, autograder validation.</th>
-        <td><span class="deadline-badge">Ordibehesht 23, 1405</span></th>
-        <td><a class="download-link" href="/static_files/projects/f1.zip">📄 ZIP</a></th>
+        <td><strong>Phase 1</strong></td>
+        <td>Implementation of classic algorithms: Coin Change (greedy & DP), Matrix Chain Multiplication, LIS/LCS, Huffman Coding, Graph algorithms (Dijkstra, Floyd‑Warshall), Knapsack (fractional & 0/1), and Climb Stairs. — From‑scratch coding, autograder validation.</td>
+        <td><span class="deadline-badge">Ordibehesht 23, 1405</span></td>
+        <td><a class="download-link" href="/static_files/projects/f1.zip">📄 ZIP</a></td>
       </tr>
       <tr>
-        <td><strong>Phase 2</strong></th>
-        <td>Advanced techniques: Knuth Optimization for optimal merge, Rabin‑Karp string matching, O(n log n) LIS, FPTAS for 0/1 knapsack, Edmonds‑Karp max flow, and Floyd‑Warshall all‑pairs shortest paths. — Theoretical analysis included.</th>
-        <td><span class="deadline-badge">Khordad 7, 1405</span></th>
-        <td><a class="download-link" href="/static_files/projects/f2.zip">📄 ZIP</a></th>
+        <td><strong>Phase 2</strong></td>
+        <td>Advanced techniques: Knuth Optimization for optimal merge, Rabin‑Karp string matching, O(n log n) LIS, FPTAS for 0/1 knapsack, Edmonds‑Karp max flow, and Floyd‑Warshall all‑pairs shortest paths. — Theoretical analysis included.</td>
+        <td><span class="deadline-badge">Khordad 7, 1405</span></td>
+        <td><a class="download-link" href="/static_files/projects/f2.zip">📄 ZIP</a></td>
       </tr>
       <tr>
-        <td><strong>Phase 3</strong></th>
-        <td>NP‑hard problems: Held‑Karp DP for TSP, Hamiltonian cycle/path backtracking, Graph coloring (greedy/backtracking), 2‑approximation for metric TSP (MST‑based), and written questions on P, NP, NP‑completeness.</th>
-        <td><span class="deadline-badge">Khordad 25, 1405</span></th>
-        <td><a class="download-link" href="/static_files/projects/f3.zip">📄 ZIP</a></th>
+        <td><strong>Phase 3</strong></td>
+        <td>NP‑hard problems: Held‑Karp DP for TSP, Hamiltonian cycle/path backtracking, Graph coloring (greedy/backtracking), 2‑approximation for metric TSP (MST‑based), and written questions on P, NP, NP‑completeness.</td>
+        <td><span class="deadline-badge">Khordad 25, 1405</span></td>
+        <td><a class="download-link" href="/static_files/projects/f3.zip">📄 ZIP</a></td>
       </tr>
     </tbody>
   </table>
 </div>
-<div class="note-card"><p><strong>📌 Note:</strong> Detailed instructions and submission guidelines will be announced via Telegram and Quera. The autograder must pass all tests. For download issues, contact TAs.</p></div>
+<div class="note-card">
+  <p><strong>📌 Note:</strong> Detailed instructions and submission guidelines will be announced via Telegram and Quera. The autograder must pass all tests. For download issues, contact TAs.</p>
+</div>
