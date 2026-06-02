@@ -21,10 +21,17 @@ permalink: /project/
 
 <div class="project-container">
   <table class="project-table">
-    <thead><tr><th>Phase</th><th>Description</th><th>Deadline</th><th>Download</th></tr></thead>
+    <thead>
+      <tr>
+        <th>Phase</th>
+        <th>Description</th>
+        <th>Deadline</th>
+        <th>Download</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
-        <td><strong>Phase 1</strong></td>
+        <td><strong>Phase 1</strong></th>
         <td>Implementation of classic algorithms: Coin Change (greedy & DP), Matrix Chain Multiplication, LIS/LCS, Huffman Coding, Graph algorithms (Dijkstra, Floyd‑Warshall), Knapsack (fractional & 0/1), and Climb Stairs. — From‑scratch coding, autograder validation.</th>
         <td><span class="deadline-badge">Ordibehesht 23, 1405</span></th>
         <td><a class="download-link" href="/static_files/projects/f1.zip">📄 ZIP</a></th>
